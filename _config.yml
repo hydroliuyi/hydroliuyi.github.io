@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "Nanning, China"
-title                    : "Yi Liu/Personal Homepage"
+locale                   : "en-US"
+title                    : "Yi Liu / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Yi Liu"
 description              : &description "Assistant Professor at Guangxi University"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           :
   googlescholar    :
-  email            : "liuyi.15b@igsnrr.ac.cn"
+  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "hydroliuyi"
   google_plus      :
   keybase          :
   instagram        :
@@ -104,6 +104,17 @@ author:
   lastfm           :
   linkedin         :
   orcid            : "https://orcid.org/0000-0002-1044-6626"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          :
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
 
 
 # Reading Files
